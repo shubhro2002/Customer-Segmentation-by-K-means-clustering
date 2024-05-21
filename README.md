@@ -60,7 +60,7 @@ This project demonstrates the effective use of K-Means clustering for customer s
 ## Project Structure
 - `Mall_Customers.csv`: The original dataset.
 - `Preprocessed_Mall_Customers.csv`: The preprocessed dataset.
-- `Mall_Customer_Segmentation.ipynb`: Jupyter notebook containing the full analysis.
+- `customer-segmentation-using-k-means`: Jupyter notebook containing the full analysis.
 - `README.md`: Project description and instructions.
 
 This project showcases my ability to handle real-world data, perform advanced analytics, and derive meaningful insights, making it a valuable addition to my data science portfolio.
